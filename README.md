@@ -25,7 +25,7 @@ This project is a web-based Shipment Management Form that allows users to add, u
 
 👉JsonPowerDB (JPDB) for backend database
 👉HTML5 and jQuery for dynamic interaction
-👉Bootstrap 3.4.1 for styling and layout
+👉Bootstrap 5.3.7 for styling and layout
 👉Custom JavaScript for client-side validation and API integration
 
 ##⚙️How It Works
