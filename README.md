@@ -72,7 +72,7 @@ This project is a web-based Shipment Management Form that allows users to add, u
 
 ## 🙋‍♂️ Author <br>
 Aditya Singh Tomar<br>
-📧 adityatomar4429@email.com<br>
+📧 adityatomar4429@email.com <br>
 🔗 [LinkedIn](www.linkedin.com/in/aditya-singh-tomar-2a4003288)
 
  
